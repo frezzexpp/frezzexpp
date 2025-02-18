@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer
 
-I'm passionate about building scalable systems and crafting clean, efficient code. My work bridges creativity with cutting-edge technology, enabling me to tackle complex challenges and deliver solutions that truly make an impact.
+I'm passionate about creating websites and telegram bots and I'm currently looking to improve my skills.
 
 ---
 
