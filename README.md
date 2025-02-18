@@ -1,6 +1,6 @@
 <h1 align="center">👋YOOO, I'm Ozodbek! </h1>
 
-### 🚀 Full-Stack Developer
+### Full-Stack Developer
 
 I'm passionate about building scalable systems and crafting clean, efficient code. My work bridges creativity with cutting-edge technology, enabling me to tackle complex challenges and deliver solutions that truly make an impact.
 
