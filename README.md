@@ -1,6 +1,6 @@
 <h1 align="center">👋YOOO, I'm Ozodbek! </h1>
 
-### Web Back-End Developer
+### Back-End Developer
 
 I'm passionate about creating websites and telegram bots and I'm currently looking to improve my skills.
 
